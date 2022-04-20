@@ -52,7 +52,7 @@ import EssentialLink from 'components/EssentialLink.vue'
 const linksList = [
   {
     icon: 'school',
-    action: 'https://quasar.dev'
+    action: 'imagePanel'
   },
   {
     icon: 'code',
