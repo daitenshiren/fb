@@ -1,4 +1,4 @@
-# FlipBooker (flipbooker)
+#### FlipBooker (flipbooker)
 
 An advance easy to use tool for creating interactive flipbooks
 
